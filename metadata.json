@@ -1,0 +1,5 @@
+{
+  "name": "Fast File Creator",
+  "description": "Rapidly create, name, and save text files directly to a selected folder.",
+  "requestFramePermissions": []
+}
